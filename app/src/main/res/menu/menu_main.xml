@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/movie_theater"
+        android:icon="@mipmap/ic_launcher"
+        android:title="豆瓣热映"/>
+    <item
+        android:id="@+id/movie_coming"
+        android:icon="@mipmap/ic_launcher"
+        android:title="豆瓣推荐"/>
+    <item
+        android:id="@+id/movie_top"
+        android:icon="@mipmap/ic_launcher"
+        android:title="豆瓣经典"/>
+
+</menu>
